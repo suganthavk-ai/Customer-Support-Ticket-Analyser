@@ -205,7 +205,7 @@ Through this assignment, I learned how to:
 The Customer Support Ticket Analyser is a practical beginner-level Python project that combines programming fundamentals with basic data analysis techniques.
 It provides a foundation for progressing toward more advanced tools and technologies such as Pandas, NumPy, Matplotlib, SQL, and Power BI.
 
-👩‍💻 Author
+## 👩‍💻 Author
 Sugantha B
 -	Aspiring Data Analyst
 -	Python | SQL | Excel | Power BI | Data Cleaning | Data Analysis
