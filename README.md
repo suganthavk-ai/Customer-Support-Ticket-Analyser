@@ -139,9 +139,9 @@ Issue Description: Good support from the team
 Priority (High / Medium / Low): Medium
 ```
 📈 Sample Analysis Output
-======================================================================
+
 KEYWORD-BASED ISSUE INSIGHTS
-======================================================================
+
 ```
 Tickets containing 'poor'      : 2
 Tickets containing 'good'      : 2
@@ -149,9 +149,6 @@ Tickets containing 'slow'      : 3
 Tickets containing 'excellent' : 1
 ```
 Priority analysis:
-======================================================================
-PRIORITY ANALYSIS
-======================================================================
 ```
 High Priority Tickets   : 4
 Medium Priority Tickets : 3
